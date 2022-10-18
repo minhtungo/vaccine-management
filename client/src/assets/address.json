@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "level1_id": "01",
+      "name": "Alberta",
+      "type": ""
+    },
+    {
+      "level1_id": "02",
+      "name": "British Columbia",
+      "type": ""
+    },
+    {
+      "level1_id": "03",
+      "name": "Manitoba",
+      "type": ""
+    },
+    {
+      "level1_id": "04",
+      "name": "New Brunswick",
+      "type": ""
+    },
+    {
+      "level1_id": "05",
+      "name": "Nova Scotia",
+      "type": ""
+    },
+    {
+      "level1_id": "06",
+      "name": "Ontario",
+      "type": ""
+    },
+    {
+      "level1_id": "07",
+      "name": "Quebec",
+      "type": ""
+    }
+  ]
+}
